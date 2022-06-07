@@ -1,0 +1,16 @@
+
+ Nome: Antônio Carlos
+ Endereço: Rua João de Souza Correia
+ Data de Nascimento: 1984-05-04
+ Título: 1234.5678.9101 
+ Candidato: Zé Biruta
+ Número do Candidato: 10
+ Partido: PRB
+
+ Nome: João José
+ Endereço: Rua Antônio Vitorino da Costa
+ Data de Nascimento: 1982-03-01
+ Título: 4123.5312.5123 
+ Candidato: Filó
+ Número do Candidato: 45
+ Partido: PSDB
