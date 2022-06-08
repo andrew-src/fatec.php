@@ -3,6 +3,7 @@
 <html lang="pt-br">
 <?php include("head.php"); ?>
 <body> 
+<?php new Banco(); ?>
   <?php include("menu.php"); ?>
     <table class="table">
       <thead>
